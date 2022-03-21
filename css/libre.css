@@ -1,0 +1,57 @@
+.container {
+    width: 100%;
+    height: 50%;
+    background-color: #fff;
+}
+
+.tarjeta {
+    width: 15rem;
+    color: #343a40;
+    
+}
+
+.logo{
+    width: 480px;
+}
+
+.barranavegacion{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.banda{
+    background-color:#f7d954;
+    height: 250px;
+}
+
+.servicios{
+    background-color: #f7d954;
+    height: 90px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+
+.telogo{
+    width: 50px;
+}
+
+.wlogo{
+    width: 100px;
+}
+
+.columna11{
+    font-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.columna22{
+    height: 1000%;
+}
+
+.listaservicios{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.piedepagina{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
